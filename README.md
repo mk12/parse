@@ -25,7 +25,7 @@ Features
 Usage
 -----
 
-A program that uses Parse is easy to use. Here are some ways that you can Meaner, the example program below:
+A program that uses Parse is easy to use. Here are some ways that you can use Meaner:
 
     $ meaner --help
 	usage: meaner number ...
