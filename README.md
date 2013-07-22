@@ -1,7 +1,7 @@
 Parse
 =====
 
-Get rid of parsing boilerplate,
+Get rid of parsing boilerplate,  
 And make your program a shining UNIX citizen for free!
 
 Want to **Go** and write some quick programs (solutions to [CCC][] problems, perhaps) without dealing with boring parsing code or even figuring out where to get the arguments from in the first place? Parse has got you covered.
@@ -25,7 +25,7 @@ Features
 Usage
 -----
 
-A program that uses Parse is easy to use. Here are some ways that you can Meaner, the exampe program below:
+A program that uses Parse is easy to use. Here are some ways that you can Meaner, the example program below:
 
     $ meaner --help
 	usage: meaner number ...
