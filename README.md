@@ -1,5 +1,4 @@
-Parse
-=====
+# Parse
 
 Get rid of parsing boilerplate,  
 And make your program a shining UNIX citizen for free!
@@ -12,8 +11,7 @@ What are you waiting for?
 
 [CCC]: http://www.cemc.uwaterloo.ca/contests/computing.html
 
-Features
---------
+## Features
 
 - abstracts away the source of program arguments
 - provides a flexible model for parsing said arguments
@@ -22,8 +20,7 @@ Features
 - creates and displays a standard usage message
 - prints helpful, context-aware error messages
 
-Usage
------
+## Usage
 
 A program that uses Parse is easy to use. Here are some ways that you can use Meaner:
 
@@ -40,8 +37,7 @@ A program that uses Parse is easy to use. Here are some ways that you can use Me
 	meaner: a: invalid syntax
 	meaner: b: invalid syntax
 
-Example
--------
+## Example
 
 Meaner calculates the mean of a list of numbers. Read the documentation in [parse.go](parse.go) for information on the functions it uses.
 
@@ -73,8 +69,7 @@ func main() {
 }
 ```
 
-License
--------
+## License
 
 Copyright © 2013 Mitchell Kember
 
