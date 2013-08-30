@@ -3,9 +3,7 @@
 Get rid of parsing boilerplate,  
 And make your program a shining UNIX citizen for free!
 
-Want to **Go** and write some quick programs (solutions to [CCC][] problems,
-perhaps) without dealing with boring parsing code or even figuring out where to
-get the arguments from in the first place? Parse has got you covered.
+Want to **Go** and write some quick programs (solutions to [CCC][] problems, perhaps) without dealing with boring parsing code or even figuring out where to get the arguments from in the first place? Parse has got you covered.
 
 What are you waiting for?
 
@@ -24,8 +22,7 @@ What are you waiting for?
 
 ## Usage
 
-A program that uses Parse is easy to use. Here are some ways that you can use
-Meaner:
+A program that uses Parse is easy to use. Here are some ways that you can use Meaner:
 
     $ meaner --help
     usage: meaner number ...
@@ -42,8 +39,7 @@ Meaner:
 
 ## Example
 
-Meaner calculates the mean of a list of numbers. Read the documentation in
-[parse.go](parse.go) for information on the functions it uses.
+Meaner calculates the mean of a list of numbers. Read the documentation in [parse.go](parse.go) for information on the functions it uses.
 
 ```go
 package main
