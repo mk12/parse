@@ -71,6 +71,6 @@ func main() {
 
 ## License
 
-Copyright © 2013 Mitchell Kember
+© 2013 Mitchell Kember
 
 Parse is available under the MIT License; see [LICENSE](LICENSE.md) for details.
