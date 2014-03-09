@@ -71,7 +71,7 @@ func main() {
 
 ## SimpleIO
 
-Parse is based on SimpleIO, an extremely similar project that I wrote in C. I've included it this repository under `simpleio/`.
+Parse is based on SimpleIO, an extremely similar project that I wrote in C. I've included the SimpleIO in this repository in the files `simpleio.h` and `simpleio.c`.
 
 ## License
 
