@@ -7,7 +7,9 @@ Want to **Go** and write some quick programs (solutions to [CCC][] problems, per
 
 What are you waiting for?
 
-	$ go get github.com/mk12/parse
+```sh
+$ go get github.com/mk12/parse
+```
 
 [CCC]: http://www.cemc.uwaterloo.ca/contests/computing.html
 
@@ -24,18 +26,20 @@ What are you waiting for?
 
 A program that uses Parse is easy to use. Here are some ways that you can use Meaner:
 
-	$ meaner --help
-	usage: meaner number ...
-	$ meaner 1 2 3
-	2
-	$ echo 1 1 2e50 | meaner
-	6.666666666666668e+49
-	$ echo -1 1 > data
-	$ meaner < data
-	0
-	$ meaner a b
-	meaner: a: invalid syntax
-	meaner: b: invalid syntax
+```sh
+$ meaner --help
+usage: meaner number ...
+$ meaner 1 2 3
+2
+$ echo 1 1 2e50 | meaner
+6.666666666666668e+49
+$ echo -1 1 > data
+$ meaner < data
+0
+$ meaner a b
+meaner: a: invalid syntax
+meaner: b: invalid syntax
+```
 
 ## Example
 
